@@ -45,7 +45,7 @@ The Book Site Application is a full-stack web platform that provides users with 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-site.git
+   https://github.com/munnakrjha/BookSiteEbook.git
    ```
 2. Navigate to the project directory:
    ```bash
